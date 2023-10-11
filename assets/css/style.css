@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid #e08989;
+    padding: 20px;
+    margin: 10px;
+}
+thead{
+    font-family: Bahnschrift;
+    font-size: 28px;
+    color: fuchsia;
+}
+body{
+    background-color: #90dc90;
+}
+h2{
+    text-align: center;
+    color: #380121;
+}
+img{
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally */
+
+}
